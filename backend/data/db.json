@@ -1,0 +1,710 @@
+{
+  "location": {
+    "lat": 28.6139,
+    "lng": 77.209,
+    "name": "New Delhi, Delhi, India (Archive Fallback)",
+    "lastUpdated": "2026-08-20T09:46:52.242Z"
+  },
+  "drains": [
+    {
+      "id": "D-27",
+      "latitude": 28.6154,
+      "longitude": 77.207,
+      "drainType": "Catch Basin",
+      "theoreticalCapacity": 160,
+      "effectiveCapacityPct": 52,
+      "effectiveCapacity": 83.2,
+      "catchmentArea": 9500,
+      "runoffCoefficient": 0.85,
+      "elevation": "Low",
+      "lastMaintenanceDaysAgo": 42,
+      "historicalIncidents": 4,
+      "blockageCondition": "Severely Blocked",
+      "maintenanceStatus": "NONE",
+      "notes": "Located near commercial intersection. Prone to leaf/silt blockage.",
+      "expectedRunoff": 14.7,
+      "capacityUtilization": 17.7,
+      "diagnosis": "Safe",
+      "recommendedAction": "No immediate action required.",
+      "diagnosisType": "NONE",
+      "riskScore": 49,
+      "status": "Safe"
+    },
+    {
+      "id": "D-11",
+      "latitude": 28.608987,
+      "longitude": 77.206539,
+      "drainType": "Culvert",
+      "theoreticalCapacity": 81,
+      "effectiveCapacityPct": 100,
+      "effectiveCapacity": 81,
+      "catchmentArea": 2087,
+      "runoffCoefficient": 0.25,
+      "elevation": "Medium",
+      "lastMaintenanceDaysAgo": 34,
+      "historicalIncidents": 2,
+      "blockageCondition": "Clear",
+      "maintenanceStatus": "NONE",
+      "notes": "Asset serving catchment of 2087 sqm.",
+      "expectedRunoff": 0.95,
+      "capacityUtilization": 1.2,
+      "diagnosis": "Safe",
+      "recommendedAction": "No immediate action required.",
+      "diagnosisType": "NONE",
+      "riskScore": 9,
+      "status": "Safe"
+    },
+    {
+      "id": "D-12",
+      "latitude": 28.618962,
+      "longitude": 77.214379,
+      "drainType": "Culvert",
+      "theoreticalCapacity": 182,
+      "effectiveCapacityPct": 54,
+      "effectiveCapacity": 98.28,
+      "catchmentArea": 10462,
+      "runoffCoefficient": 0.6,
+      "elevation": "Medium",
+      "lastMaintenanceDaysAgo": 83,
+      "historicalIncidents": 2,
+      "blockageCondition": "Severely Blocked",
+      "maintenanceStatus": "NONE",
+      "notes": "Asset serving catchment of 10462 sqm.",
+      "expectedRunoff": 11.42,
+      "capacityUtilization": 11.6,
+      "diagnosis": "Safe",
+      "recommendedAction": "No immediate action required.",
+      "diagnosisType": "NONE",
+      "riskScore": 20,
+      "status": "Safe"
+    },
+    {
+      "id": "D-13",
+      "latitude": 28.6203,
+      "longitude": 77.20642,
+      "drainType": "Outfall",
+      "theoreticalCapacity": 189,
+      "effectiveCapacityPct": 70,
+      "effectiveCapacity": 132.3,
+      "catchmentArea": 11056,
+      "runoffCoefficient": 0.85,
+      "elevation": "High",
+      "lastMaintenanceDaysAgo": 118,
+      "historicalIncidents": 4,
+      "blockageCondition": "Partially Blocked",
+      "maintenanceStatus": "NONE",
+      "notes": "Asset serving catchment of 11056 sqm.",
+      "expectedRunoff": 17.1,
+      "capacityUtilization": 12.9,
+      "diagnosis": "Safe",
+      "recommendedAction": "No immediate action required.",
+      "diagnosisType": "NONE",
+      "riskScore": 19,
+      "status": "Safe"
+    },
+    {
+      "id": "D-14",
+      "latitude": 28.610649,
+      "longitude": 77.204049,
+      "drainType": "Open Channel",
+      "theoreticalCapacity": 96,
+      "effectiveCapacityPct": 100,
+      "effectiveCapacity": 96,
+      "catchmentArea": 3325,
+      "runoffCoefficient": 0.6,
+      "elevation": "Medium",
+      "lastMaintenanceDaysAgo": 50,
+      "historicalIncidents": 3,
+      "blockageCondition": "Clear",
+      "maintenanceStatus": "NONE",
+      "notes": "Asset serving catchment of 3325 sqm.",
+      "expectedRunoff": 3.63,
+      "capacityUtilization": 3.8,
+      "diagnosis": "Safe",
+      "recommendedAction": "No immediate action required.",
+      "diagnosisType": "NONE",
+      "riskScore": 16,
+      "status": "Safe"
+    },
+    {
+      "id": "D-15",
+      "latitude": 28.616525,
+      "longitude": 77.20966,
+      "drainType": "Catch Basin",
+      "theoreticalCapacity": 171,
+      "effectiveCapacityPct": 100,
+      "effectiveCapacity": 171,
+      "catchmentArea": 9625,
+      "runoffCoefficient": 0.6,
+      "elevation": "Medium",
+      "lastMaintenanceDaysAgo": 70,
+      "historicalIncidents": 1,
+      "blockageCondition": "Clear",
+      "maintenanceStatus": "NONE",
+      "notes": "Asset serving catchment of 9625 sqm.",
+      "expectedRunoff": 10.51,
+      "capacityUtilization": 6.1,
+      "diagnosis": "Safe",
+      "recommendedAction": "No immediate action required.",
+      "diagnosisType": "NONE",
+      "riskScore": 10,
+      "status": "Safe"
+    },
+    {
+      "id": "D-16",
+      "latitude": 28.613487,
+      "longitude": 77.209903,
+      "drainType": "Outfall",
+      "theoreticalCapacity": 195,
+      "effectiveCapacityPct": 69,
+      "effectiveCapacity": 134.55,
+      "catchmentArea": 11564,
+      "runoffCoefficient": 0.85,
+      "elevation": "High",
+      "lastMaintenanceDaysAgo": 120,
+      "historicalIncidents": 4,
+      "blockageCondition": "Partially Blocked",
+      "maintenanceStatus": "NONE",
+      "notes": "Asset serving catchment of 11564 sqm.",
+      "expectedRunoff": 17.89,
+      "capacityUtilization": 13.3,
+      "diagnosis": "Safe",
+      "recommendedAction": "No immediate action required.",
+      "diagnosisType": "NONE",
+      "riskScore": 19,
+      "status": "Safe"
+    },
+    {
+      "id": "D-17",
+      "latitude": 28.61161,
+      "longitude": 77.209141,
+      "drainType": "Open Channel",
+      "theoreticalCapacity": 113,
+      "effectiveCapacityPct": 100,
+      "effectiveCapacity": 113,
+      "catchmentArea": 4710,
+      "runoffCoefficient": 0.6,
+      "elevation": "Medium",
+      "lastMaintenanceDaysAgo": 64,
+      "historicalIncidents": 3,
+      "blockageCondition": "Clear",
+      "maintenanceStatus": "NONE",
+      "notes": "Asset serving catchment of 4710 sqm.",
+      "expectedRunoff": 5.14,
+      "capacityUtilization": 4.5,
+      "diagnosis": "Safe",
+      "recommendedAction": "No immediate action required.",
+      "diagnosisType": "NONE",
+      "riskScore": 17,
+      "status": "Safe"
+    },
+    {
+      "id": "D-18",
+      "latitude": 28.619656,
+      "longitude": 77.205227,
+      "drainType": "Grate Inlet",
+      "theoreticalCapacity": 160,
+      "effectiveCapacityPct": 100,
+      "effectiveCapacity": 160,
+      "catchmentArea": 8636,
+      "runoffCoefficient": 0.6,
+      "elevation": "Low",
+      "lastMaintenanceDaysAgo": 56,
+      "historicalIncidents": 0,
+      "blockageCondition": "Clear",
+      "maintenanceStatus": "NONE",
+      "notes": "Asset serving catchment of 8636 sqm.",
+      "expectedRunoff": 9.43,
+      "capacityUtilization": 5.9,
+      "diagnosis": "Safe",
+      "recommendedAction": "No immediate action required.",
+      "diagnosisType": "NONE",
+      "riskScore": 21,
+      "status": "Safe"
+    },
+    {
+      "id": "D-19",
+      "latitude": 28.6203,
+      "longitude": 77.20642,
+      "drainType": "Outfall",
+      "theoreticalCapacity": 199,
+      "effectiveCapacityPct": 68,
+      "effectiveCapacity": 135.32,
+      "catchmentArea": 11880,
+      "runoffCoefficient": 0.85,
+      "elevation": "High",
+      "lastMaintenanceDaysAgo": 119,
+      "historicalIncidents": 4,
+      "blockageCondition": "Partially Blocked",
+      "maintenanceStatus": "NONE",
+      "notes": "Asset serving catchment of 11880 sqm.",
+      "expectedRunoff": 18.38,
+      "capacityUtilization": 13.6,
+      "diagnosis": "Safe",
+      "recommendedAction": "No immediate action required.",
+      "diagnosisType": "NONE",
+      "riskScore": 20,
+      "status": "Safe"
+    },
+    {
+      "id": "D-20",
+      "latitude": 28.617318,
+      "longitude": 77.218051,
+      "drainType": "Outfall",
+      "theoreticalCapacity": 128,
+      "effectiveCapacityPct": 100,
+      "effectiveCapacity": 128,
+      "catchmentArea": 6041,
+      "runoffCoefficient": 0.6,
+      "elevation": "High",
+      "lastMaintenanceDaysAgo": 77,
+      "historicalIncidents": 4,
+      "blockageCondition": "Clear",
+      "maintenanceStatus": "NONE",
+      "notes": "Asset serving catchment of 6041 sqm.",
+      "expectedRunoff": 6.6,
+      "capacityUtilization": 5.2,
+      "diagnosis": "Safe",
+      "recommendedAction": "No immediate action required.",
+      "diagnosisType": "NONE",
+      "riskScore": 11,
+      "status": "Safe"
+    },
+    {
+      "id": "D-21",
+      "latitude": 28.614413,
+      "longitude": 77.207131,
+      "drainType": "Grate Inlet",
+      "theoreticalCapacity": 146,
+      "effectiveCapacityPct": 100,
+      "effectiveCapacity": 146,
+      "catchmentArea": 7513,
+      "runoffCoefficient": 0.6,
+      "elevation": "Low",
+      "lastMaintenanceDaysAgo": 41,
+      "historicalIncidents": 0,
+      "blockageCondition": "Clear",
+      "maintenanceStatus": "NONE",
+      "notes": "Asset serving catchment of 7513 sqm.",
+      "expectedRunoff": 8.2,
+      "capacityUtilization": 5.6,
+      "diagnosis": "Safe",
+      "recommendedAction": "No immediate action required.",
+      "diagnosisType": "NONE",
+      "riskScore": 21,
+      "status": "Safe"
+    },
+    {
+      "id": "D-22",
+      "latitude": 28.613456,
+      "longitude": 77.209916,
+      "drainType": "Outfall",
+      "theoreticalCapacity": 200,
+      "effectiveCapacityPct": 66,
+      "effectiveCapacity": 132,
+      "catchmentArea": 11999,
+      "runoffCoefficient": 0.85,
+      "elevation": "High",
+      "lastMaintenanceDaysAgo": 116,
+      "historicalIncidents": 4,
+      "blockageCondition": "Partially Blocked",
+      "maintenanceStatus": "NONE",
+      "notes": "Asset serving catchment of 11999 sqm.",
+      "expectedRunoff": 18.56,
+      "capacityUtilization": 14.1,
+      "diagnosis": "Safe",
+      "recommendedAction": "No immediate action required.",
+      "diagnosisType": "NONE",
+      "riskScore": 20,
+      "status": "Safe"
+    },
+    {
+      "id": "D-23",
+      "latitude": 28.614192,
+      "longitude": 77.211333,
+      "drainType": "Outfall",
+      "theoreticalCapacity": 144,
+      "effectiveCapacityPct": 67,
+      "effectiveCapacity": 96.48,
+      "catchmentArea": 7292,
+      "runoffCoefficient": 0.85,
+      "elevation": "High",
+      "lastMaintenanceDaysAgo": 89,
+      "historicalIncidents": 4,
+      "blockageCondition": "Partially Blocked",
+      "maintenanceStatus": "NONE",
+      "notes": "Asset serving catchment of 7292 sqm.",
+      "expectedRunoff": 11.28,
+      "capacityUtilization": 11.7,
+      "diagnosis": "Safe",
+      "recommendedAction": "No immediate action required.",
+      "diagnosisType": "NONE",
+      "riskScore": 18,
+      "status": "Safe"
+    },
+    {
+      "id": "D-24",
+      "latitude": 28.617149,
+      "longitude": 77.214065,
+      "drainType": "Grate Inlet",
+      "theoreticalCapacity": 131,
+      "effectiveCapacityPct": 100,
+      "effectiveCapacity": 131,
+      "catchmentArea": 6281,
+      "runoffCoefficient": 0.25,
+      "elevation": "Low",
+      "lastMaintenanceDaysAgo": 25,
+      "historicalIncidents": 0,
+      "blockageCondition": "Clear",
+      "maintenanceStatus": "NONE",
+      "notes": "Asset serving catchment of 6281 sqm.",
+      "expectedRunoff": 2.86,
+      "capacityUtilization": 2.2,
+      "diagnosis": "Safe",
+      "recommendedAction": "No immediate action required.",
+      "diagnosisType": "NONE",
+      "riskScore": 17,
+      "status": "Safe"
+    },
+    {
+      "id": "D-25",
+      "latitude": 28.6203,
+      "longitude": 77.20642,
+      "drainType": "Open Channel",
+      "theoreticalCapacity": 199,
+      "effectiveCapacityPct": 64,
+      "effectiveCapacity": 127.36,
+      "catchmentArea": 11918,
+      "runoffCoefficient": 0.85,
+      "elevation": "High",
+      "lastMaintenanceDaysAgo": 111,
+      "historicalIncidents": 3,
+      "blockageCondition": "Partially Blocked",
+      "maintenanceStatus": "NONE",
+      "notes": "Asset serving catchment of 11918 sqm.",
+      "expectedRunoff": 18.44,
+      "capacityUtilization": 14.5,
+      "diagnosis": "Safe",
+      "recommendedAction": "No immediate action required.",
+      "diagnosisType": "NONE",
+      "riskScore": 17,
+      "status": "Safe"
+    },
+    {
+      "id": "D-26",
+      "latitude": 28.619472,
+      "longitude": 77.210847,
+      "drainType": "Outfall",
+      "theoreticalCapacity": 157,
+      "effectiveCapacityPct": 68,
+      "effectiveCapacity": 106.76,
+      "catchmentArea": 8436,
+      "runoffCoefficient": 0.85,
+      "elevation": "High",
+      "lastMaintenanceDaysAgo": 100,
+      "historicalIncidents": 4,
+      "blockageCondition": "Partially Blocked",
+      "maintenanceStatus": "NONE",
+      "notes": "Asset serving catchment of 8436 sqm.",
+      "expectedRunoff": 13.05,
+      "capacityUtilization": 12.2,
+      "diagnosis": "Safe",
+      "recommendedAction": "No immediate action required.",
+      "diagnosisType": "NONE",
+      "riskScore": 18,
+      "status": "Safe"
+    }
+  ],
+  "tasks": [],
+  "timeline": [
+    {
+      "id": "cd47a6ae-15d9-42a3-9894-e709a72b5518",
+      "time": "03:16 PM",
+      "timestamp": "2026-08-20T09:46:52.331Z",
+      "message": "Live weather loaded from Open-Meteo Simulated (Fallback: API_UNAVAILABLE). Rain intensity: 1.82 mm/hr",
+      "type": "info"
+    },
+    {
+      "id": "74e37815-d3d1-4618-a1e5-b45966d24973",
+      "time": "03:16 PM",
+      "timestamp": "2026-08-20T09:46:52.330Z",
+      "message": "Location changed to: New Delhi, Delhi, India (Archive Fallback)",
+      "type": "info"
+    }
+  ],
+  "weather": {
+    "source": "Open-Meteo Simulated (Fallback: API_UNAVAILABLE)",
+    "status": "SIMULATED",
+    "timestamp": "2026-08-20T09:46:52.263Z",
+    "temperature": 16,
+    "currentRain": 1.82,
+    "next3hRain": 5.1,
+    "next6hRain": 9.48,
+    "peakIntensity": 4.82,
+    "rainProbability": 80,
+    "weatherCode": 61,
+    "weatherCondition": "Moderate Rain",
+    "forecastDuration": 24
+  },
+  "historicalRain": [
+    {
+      "date": "2025-08-12",
+      "rainSum": 14.5,
+      "rainRate": 0.6
+    },
+    {
+      "date": "2025-08-13",
+      "rainSum": 45.2,
+      "rainRate": 1.88
+    },
+    {
+      "date": "2025-08-14",
+      "rainSum": 0,
+      "rainRate": 0
+    },
+    {
+      "date": "2025-08-15",
+      "rainSum": 78.4,
+      "rainRate": 3.27
+    },
+    {
+      "date": "2025-08-16",
+      "rainSum": 12.1,
+      "rainRate": 0.5
+    },
+    {
+      "date": "2025-08-17",
+      "rainSum": 3,
+      "rainRate": 0.12
+    },
+    {
+      "date": "2025-08-18",
+      "rainSum": 0,
+      "rainRate": 0
+    }
+  ],
+  "overpassStatus": "API_UNAVAILABLE",
+  "roads": [
+    {
+      "id": "road-gen-0",
+      "name": "Street 100",
+      "coordinates": [
+        [
+          28.607930910934332,
+          77.20503845411292
+        ],
+        [
+          28.60793299090112,
+          77.20832391528846
+        ]
+      ]
+    },
+    {
+      "id": "road-gen-1",
+      "name": "Street 101",
+      "coordinates": [
+        [
+          28.610614398848803,
+          77.20415954661662
+        ],
+        [
+          28.60967016239253,
+          77.20708419376
+        ]
+      ]
+    },
+    {
+      "id": "road-gen-2",
+      "name": "Street 102",
+      "coordinates": [
+        [
+          28.612722014815905,
+          77.21109565662331
+        ],
+        [
+          28.61298633399215,
+          77.21481555370431
+        ]
+      ]
+    },
+    {
+      "id": "road-gen-3",
+      "name": "Street 103",
+      "coordinates": [
+        [
+          28.61226645481924,
+          77.20993212763517
+        ],
+        [
+          28.611781822883334,
+          77.21368055423359
+        ]
+      ]
+    },
+    {
+      "id": "road-gen-4",
+      "name": "Street 104",
+      "coordinates": [
+        [
+          28.61311375456748,
+          77.20666708603537
+        ],
+        [
+          28.619105197410928,
+          77.20706038457818
+        ]
+      ]
+    },
+    {
+      "id": "road-gen-5",
+      "name": "Street 105",
+      "coordinates": [
+        [
+          28.61727281484431,
+          77.21408672083257
+        ],
+        [
+          28.617224162803588,
+          77.21808017283686
+        ]
+      ]
+    },
+    {
+      "id": "road-gen-6",
+      "name": "Street 106",
+      "coordinates": [
+        [
+          28.610668874612255,
+          77.20683862248737
+        ],
+        [
+          28.61602806834637,
+          77.207122127846
+        ]
+      ]
+    },
+    {
+      "id": "road-gen-7",
+      "name": "Street 107",
+      "coordinates": [
+        [
+          28.615035941636062,
+          77.20492901089897
+        ],
+        [
+          28.615427308117777,
+          77.21198384883084
+        ]
+      ]
+    },
+    {
+      "id": "road-gen-8",
+      "name": "Street 108",
+      "coordinates": [
+        [
+          28.60815010445372,
+          77.20375737794264
+        ],
+        [
+          28.607880002788082,
+          77.20923602324359
+        ]
+      ]
+    },
+    {
+      "id": "road-gen-9",
+      "name": "Street 109",
+      "coordinates": [
+        [
+          28.619747719835782,
+          77.20517804651102
+        ],
+        [
+          28.619338926571793,
+          77.21080391041757
+        ]
+      ]
+    },
+    {
+      "id": "road-gen-10",
+      "name": "Street 110",
+      "coordinates": [
+        [
+          28.618020321436074,
+          77.20664553082503
+        ],
+        [
+          28.615064785735015,
+          77.20447590223667
+        ]
+      ]
+    },
+    {
+      "id": "road-gen-11",
+      "name": "Street 111",
+      "coordinates": [
+        [
+          28.61300485314944,
+          77.21377499684236
+        ],
+        [
+          28.61897377501203,
+          77.21427476678883
+        ]
+      ]
+    },
+    {
+      "id": "road-gen-12",
+      "name": "Street 112",
+      "coordinates": [
+        [
+          28.608759119754662,
+          77.20420869201838
+        ],
+        [
+          28.608264420840403,
+          77.20979229015083
+        ]
+      ]
+    },
+    {
+      "id": "road-gen-13",
+      "name": "Street 113",
+      "coordinates": [
+        [
+          28.610546805617936,
+          77.21147490634006
+        ],
+        [
+          28.613345539414883,
+          77.20976587868782
+        ]
+      ]
+    }
+  ],
+  "waterways": [
+    {
+      "id": "canal-gen-0",
+      "name": "Canal Alpha",
+      "coordinates": [
+        [
+          28.605900000000002,
+          77.20698185577461
+        ],
+        [
+          28.6107,
+          77.20686260968453
+        ],
+        [
+          28.6155,
+          77.20630718130057
+        ],
+        [
+          28.6203,
+          77.20642023748883
+        ]
+      ]
+    }
+  ],
+  "waterBodies": []
+}
